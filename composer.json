@@ -1,0 +1,19 @@
+{
+    "name": "thisismhp/vTigerCrud",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohammad Hosseinpour",
+            "email": "m.ho3einpour@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VTigerCrud\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.5",
+        "salaros/vtwsclib-php": "^1.0.0"
+    }
+}
