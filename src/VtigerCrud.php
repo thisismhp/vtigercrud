@@ -1,6 +1,6 @@
 <?php /** @noinspection PhpUnused */
 
-namespace App;
+namespace VTigerCrud;
 
 use Salaros\Vtiger\VTWSCLib\WSException;
 use Salaros\Vtiger\VTWSCLib\Entities;
